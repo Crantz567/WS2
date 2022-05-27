@@ -16,7 +16,7 @@ private:
 	
 	bool initialize();
 	bool socketStructSetup();	
-    bool createSocket();
+        bool createSocket();
 
 public:
 
